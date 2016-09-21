@@ -1,18 +1,17 @@
 # Site settings
-title: Daktilo
+title: Reagan Cline
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a site I am developing to learn jekyll, Markdownl, CSS, HTML5, and other cool web things in INLS 161
+  at UNC Chapel Hill. 
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+baseurl: # this should be empty
+url: "https://ohreagano.github.io/"
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Reagan Cline
+  # googleplus: 
+  github: ohreagano
+  twitter: ohreagano
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
