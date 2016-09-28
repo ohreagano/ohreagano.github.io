@@ -1,12 +1,13 @@
 /* =Base */
 body {
-    font-family: 'Inconsolata', ;
+    font-family: 'Arimo', sans-serif;
     color: $iron;
-    background-color: $pink;
+    background-color: $cloud;
 }
 
 a {
     color: $cloudy;
+    font-family: 'Lobster', cursive;
     font-weight: bold;
     text-decoration: none;
 
