@@ -1,11 +1,8 @@
 /* =Base */
-
-$primary-color: #a9a9a9;
-
 body {
     font-family: 'Inconsolata', ;
-    color: #ffffff;
-    background-color: #ffff7b;
+    color: $iron;
+    background-color: $dorian;
 }
 
 a {

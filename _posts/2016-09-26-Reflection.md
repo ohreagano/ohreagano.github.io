@@ -1,5 +1,5 @@
 ---
-layout: post
+Layout: post
 Title: Reflection
 ---
 
@@ -12,7 +12,7 @@ That's a big claim to make. For the past year I've been dabbling in web developm
 
 ### Git
 
-Git is a __free__, open-source _version control system_, sometimes called "Autosave on steroids". 
+Git is a __free__, open-source _version_ control system, sometimes called "Autosave on steroids". 
 Version control means that it saves chunks of change you make to a project, so you can revert back to an older version if you mess it up.
 Git provides a way to fork a project and then put it back together. 
 
