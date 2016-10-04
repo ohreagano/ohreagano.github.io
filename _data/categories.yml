@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: resources
+  name: Resources
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: inls161
+  name: "INLS 161"
