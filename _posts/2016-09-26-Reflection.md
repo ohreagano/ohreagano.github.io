@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Reflection
-category: INLS161
+category: inls161
 ---
 
 # Tools for Information Literacy: Course Progress & Reflection

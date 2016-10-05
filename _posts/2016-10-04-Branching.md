@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Branching
-category: Resources
+category: resources
 ---
 
 Branching confused me a little bit in class, so I'm making an additional post to store resources I found to help clarify the topic.
