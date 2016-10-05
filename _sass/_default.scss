@@ -10,7 +10,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: $cactus;
+        color: $galaxy;
     }
 }
 
@@ -58,8 +58,7 @@ blockquote {
 }
 
 strong {
-    font-weight: bold;
-    font-style: underline;
+    color: $neptune;
 }
 
 /* =Header */
@@ -76,6 +75,7 @@ strong {
 
 .navigation {
     float:left;
+    color: $moon;
 }
 
 .logo {
