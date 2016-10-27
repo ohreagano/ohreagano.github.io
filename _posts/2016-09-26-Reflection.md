@@ -35,7 +35,10 @@ Jekyll is a simple static site generator. It's awesome.
 My favorite part about Jekyll is that I can run a Jekyll gem (application) that demos my project on a temporary part of the web. 
 This means that I can make changes and see them in real time, rather than needing to 'commit' each time I want to see what effect a change in my code makes on the overall site.
 
-To view a site, use the following code in a separate terminal and view the changes you make in almost real time: `jekyll serve --host=$IP --port=$PORT --drafts`
+To view a site, use the following code in a separate terminal and view the changes you make in almost real time: 
+```
+jekyll serve --host=$IP --port=$PORT --drafts
+```
 
 ## Markdown
 
