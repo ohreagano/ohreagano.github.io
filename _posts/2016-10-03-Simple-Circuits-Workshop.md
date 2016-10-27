@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Simple Circuits
-subtitle: Community Workshop
-permalink: /communityworkshop/
+layout: post
+Title: Simple Circuits Workshop
+category: inls161
 ---
 
 I attended a Simple Circuits workshop October 3. 
