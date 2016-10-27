@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Assignment 3: Pandoc & Scripting
+Title: Pandoc & Scripting
 category: inls161
 ---
 
