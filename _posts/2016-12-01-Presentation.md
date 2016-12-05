@@ -4,7 +4,7 @@ Title: Assignment 6 - Presentation
 category: inls161
 ---
 
-View our presentation on [Distraction Engineering and Technology Design Ethics](ohreagano.github.io/assignment-6/index.html).
+View our presentation on [Distraction Engineering and Technology Design Ethics](https://ohreagano.github.io/assignment-6/#/).
 
 # The Process
 
