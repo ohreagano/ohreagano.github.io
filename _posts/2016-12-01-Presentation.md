@@ -54,13 +54,26 @@ semester. I used git, markdown, scripting, HTML & CSS, and GitHub Pages, all of 
 For this assignment, we learned how to use Reveal.JS for making a presentation and Audacity for recording and editing
 audio.
 
+
 # Reflecting On This Semester
 
-How you might use these skills and attitudes in your future studies or career (no right answer here...)
+This class definitely gave me the skills and attitude to create more with technoloy and consume less. It forced me to
+think critically about the role of technology in my life, and showed me new ways to make original content and manipulate 
+existing media. I really enjoyed the more opinion-based readings because they gave context to the technical skills we 
+were learning in class. 
 
-This class definitely gave me the skills and attitude to create more with technoloy and consume less.
+Technology and the tools available change rapidly and it's impossible to stay on top of all of it. This class 
+taught me to be comfortable with not knowing exactly how to use a tool. Through a lot of trial and error I learned
+how to break down problems into small enough chunks that even a novice can tackle. I learned how to find and recognize useful
+resources.
 
-- Not using a word processor
-- How to put content online
-- Making things with GitHub
-- Collaborative, creative sharing, pulling or forking on github
+I already used GitHub at [HackNC](https://ohreagano.github.io/inls161/2016/10/31/HackNC.html), and I know I will use it more 
+in the future. The ability to collaborate so easily is powerful. I also think it's awesome how easy it is to find existing 
+projects on GitHub, fork or clone, and build something on top of it.
+
+I have already used a lot of what I learned to help one of my friends set up a [portfolio](http://www.danleibel.com/).
+It's still a work in progress, but it's awesome that I now know how to build a website and put original content online.
+I really enjoy the flexibility of using markdown and CSS. Previously I've set up sites with WordPress and I was constantly 
+battling against the theme and settings. I also am planning to revise my own site and use that as more of a portfolio. 
+
+This class expanded my view of what I can accomplish with technology. 
