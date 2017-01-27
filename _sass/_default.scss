@@ -1,16 +1,17 @@
 /* =Base */
 body {
-    font-family: 'News Cycle', sans-serif;
-    color: $moon;
-    background-color: $space;
+    font-family: $body;
+    font-weight: 300;
+    color: $slate;
+    background-color: $paper;
 }
 
 a {
-    color: $moon;
+    color: #000000;
     text-decoration: none;
 
     &:hover {
-        color: $galaxy;
+        color: $gold;
     }
 }
 
@@ -38,7 +39,7 @@ blockquote {
         position: absolute;
         bottom: -35px;
         font-size: 15px;
-        color: $moon;
+        color: $slate;
         letter-spacing: 0px;
         left:0px;
         right: 0px;
@@ -50,7 +51,7 @@ blockquote {
     p {
         display: inline;
         font-size: 20px;
-        color: $moon;
+        color: $slate;
         font-weight: 400;
         &:before { content: "“ "; }
         &:after { content: " ”"; }
@@ -58,7 +59,7 @@ blockquote {
 }
 
 strong {
-    color: $neptune;
+    color: $slate;
 }
 
 /* =Header */
@@ -68,14 +69,14 @@ strong {
 }
 
 .header {
-    font-family: 'Unica One', cursive;
-    color: $sun;
+    font-family: $header;
+    color: $gold;
     overflow: hidden;
 }
 
 .navigation {
     float:left;
-    color: $moon;
+    color: $gold;
 }
 
 .logo {
@@ -86,8 +87,8 @@ strong {
 }
 
 .menu {
-    color: $moon;
-    font-family: 'News Cycle', sans-serif;
+    color: $sun;
+    font-family: $body;
     font-size: 18px;
     margin:0px;
     margin-top: 6px;
@@ -111,7 +112,7 @@ strong {
 .social-links {
     float:right;
     font-size: 24px;
-    color: $moon;
+    color: $gold;
     list-style-type: none;
 }
 
@@ -136,7 +137,7 @@ strong {
 .page-title__subtitle {
     font-weight: 400;
     font-size: 22px;
-    color: $moon;
+    color: $slate;
 }
 
 .post-title {
@@ -165,27 +166,27 @@ strong {
 
 .post-teaser__title {
     font-size: 22px;
-    color: $moon;
+    color: $slate;
 }
 
 .post-teaser__date {
     font-size: 16px;
     float: right;
     vertical-align: middle;
-    color: $moon;
+    color: $slate;
 }
 
 .empty-post-list {
     font-size: 22px;
     font-weight: 700;
-    color: $moon;
+    color: $slate;
     text-align: center;
 }
 
 /* =Explore */
 .explore {
     text-align: center;
-    color: $moon;
+    color: $slate;
     margin-top: 140px;
 }
 
@@ -212,13 +213,13 @@ strong {
 }
 
 .categories__item a {
-    color: $moon;
+    color: $slate;
 }
 
 .categories__item:after {
     content: "/";
     margin-left: 6px;
-    color: $moon;
+    color: $slate;
 }
 
 .categories__item:last-child:after {
@@ -229,7 +230,7 @@ strong {
 
 /* =Post page */
 .about {
-    color: $moon;
+    color: $gold;
     margin-top: 70px;
     text-align: center;
     line-height: 24px;
