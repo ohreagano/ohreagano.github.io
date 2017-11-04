@@ -25,10 +25,33 @@ Noname’s music and image are feminine and authentic, and her lyrics explore he
 
 After achieving recognition in Chicago’s spoken word community, Noname transitioned her talents to rap with help from friends at YOUmedia including Chance the Rapper, Mick Jenkins, and Saba. In an interview with _Now Toronto_, Noname described her move to rap: “The spaces for spoken word can be depressing, and poetry can be really serious. I wanted to inject light into my work, and rap is fun.” While fun and light-hearted melodies underly her songs, Noname carries the emotional power of spoken word into rap. 
 
+## Breaking Expectations in Rap
 
-Noname starts at 2:15 in Chance's performance on Saturday Night Live
+> _Telefone_ works overtime to relay all the messages that are urgent and essential to her at age 24 
+> -- and those messages, about surviving girlhood, navigating womanhood, transcending poverty, 
+> finding love and escaping violence, are very much about seizing the reins of one's own life. Here,
+> the artist does it with astounding maturity and beauty (_The Washington Post_, 2016).
+
+> Much like a jazz instrumentalist, she recycles words from the hip-hop tradition and gives them 
+> new meaning (_Play Too Much_, 2017).
+
+> Before Noname took the stage, props were brought out: a lamp, end table, chair and a 
+> half-consumed bottle of Maker's Mark. They're items from her mother's house — Noname 
+> wants the stage to feel like home….In front of 1,100 people, her performance is somehow 
+> intimate — she exudes warmth. Her show is a house party and jam session with her closest 
+> friends (_Riverfront Times_, 2017).
+
+> Her undeniable warmth and perceptiveness in conversation illuminate a truly independent 
+> artist in charge of her image and music (_Chicago Tribune_, 2017).
+
+Noname initially garnered widespread attention from features in two of Chance the Rapper’s albums and a performance with Chance on _Saturday Night Live_. While people came to see Chance, I think many left wanting to hear more of Noname’s enchanting voice and poignant verse. 
+(Noname starts at 2:15 in the video below of Chance's _SNL_ performance.)
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x55maks" allowfullscreen=""></iframe>
+
+
+
+Noname’s growing popularity comes as a surprise to her, she confesses in an interview with _Chicago Tribune_: "I know it sounds cheesy, but the 'SNL' thing kind of changed me. I never thought someone like me could be on TV, that someone like me could feel comfortable in this space and feel joy. It's crazy" (Terry, 2017). Noname’s success through feminine and authentic rap is indicative of a new trend in hip-hop and a powerful moment for black women, and all women. 
 
 
 ## NPR Tiny Desk Concert
