@@ -88,11 +88,47 @@ The third trope, the “sista with attitude”, “value[s] attitude as a means 
 And the last trope is the “lesbian”. Independent of sexuality, the “lesbian” rapper adopts male postures and baggier clothes, in a sense obscuring her sexuality and gender identity. 
 
 
-
-## NPR Tiny Desk Concert
+# An Emerging Rap Identity: Vulnerable
 
 <iframe width="600" height="338" src="https://www.npr.org/templates/event/embeddedVideo.php?storyId=521650653&mediaId=521651637" frameborder="0" scrolling="no"></iframe>
 
+In an _Impose Magazine_ article, writer Jack Denton explores a developing trend in rap and hip-hop: popular rap artists are starting to express vulnerability and insecurity in their lyrics. Kendrick Lamar, Drake, Kanye West, Kid Cudi, and Earl Sweatshirt, among many others, have told stories of insecurity in their popular songs. However, this trend has mostly been limited to male artists, while women in rap remain bound by gender stereotypes. 
+
+> Though female hip-hop artists like Noname have combined supreme vulnerability with 
+> underground success, the labyrinth of gender stereotypes has continued to make it so that 
+> mainstream rap is still largely devoid of vulnerable female MCs (Denton, 2015).
+
+Since the article’s publication in 2017, I believe Noname has carved out more space in rap for women to be both vulnerable and popular. 
+
+## Intersectional Identity
+
+Noname’s public persona is more than one narrow identity. She embraces her intersecting identities as a woman, a Chicagoan, a black person, and young adult, and presents herself openly and in whole through her music and performance.  
+
+In interviews, Noname denies intent to make a feminist statement; she says she’s just making music. But her music undeniably lends a voice to many women not previously represented in rap. For example, consider Noname’s song, “Bye Bye Baby”, that transforms abortion into a loving act. 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276247608&amp;color=%2357442c&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+Noname explains the song in an interview with _The Fader_:
+
+> It’s a personification of a mother who has had an abortion, and the baby. What I tried to do is 
+> make a love song for them. I feel like whenever I hear people talking about abortion, they 
+> typically take the love out of it, as if it can never be a loving act — as if it’s only done out of 
+> hate or desperation. I know women who have gone through that experience. And there hasn’t 
+> been like, a song for them, or a moment of catharsis and healing for them in music….That shit 
+> was just important to me as a woman, as someone who cares about these women.
+
+While talking between songs on the set of NPR’s [Tiny Desk Concert](http://www.npr.org/event/music/521650653/noname-tiny-desk-concert), Noname says “let’s heal the world with vulnerability”, and I think her music is making strides in that direction. 
+
+> If there ever was a 'Noname' way of doing things, this is definitely her signature method. It's in 
+> the way she's able to muster a smile while performing a heartbreaking tale of abortion. It's 
+> those sometimes bleak, melancholy lyrics over brilliant, colorful production (_NPR_, 2017).
+
+While Noname has created a unique space for her vulnerable, feminine style, there is still some ways to go before women are truly represented in hip-hop. 
+In an interview with _Chicago Tribune_ this year, Noname says: 
+
+> Whenever I outlive people calling me the female Chance the Rapper, that'll be my testament 
+> to when I finally make it. It's weird. No one calls Adele the female whatever, she just gets to be 
+> Adele!
 
 
 ![Fatimah Warner, picture from _The Fader_](http://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:best/54645646_Opener_ejdrgd/noname-telefone-interview.jpg)
