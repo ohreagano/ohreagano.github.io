@@ -17,6 +17,13 @@ However, Noname defies many conventions of a popular female rap artist, and I th
 
 ![Fatima Warner, picture from _Chicago Tribune_](http://c-7npsfqifvt34x24x78x78x78x2euscjnhx2edpn.g00.chicagotribune.com/g00/3_c-7x78x78x78.dijdbhpusjcvof.dpn_/c-7NPSFQIFVT34x24iuuqx3ax2fx2fx78x78x78.uscjnh.dpnx2fjnh-6998f2bbx2fuvscjofx2fsfefzf-opobnf-joufswjfx78-ufmfgpof-nfusp-dijdbhp-112x2f861x2f861y533x3fj21d.nbsl.jnbhf.uzqf_$/$/$/$/$/$)
 
+## Louder Than a Bomb: Spoken Word to Rap
+
+Noname’s music and image are feminine and authentic, and her lyrics explore her experience growing up as a black girl in Chicago. As a teenager, she started doing spoken word poetry in a community group for young artists called YOUmedia. 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74193971&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+After achieving recognition in Chicago’s spoken word community, Noname transitioned her talents to rap with help from friends at YOUmedia including Chance the Rapper, Mick Jenkins, and Saba. In an interview with _Now Toronto_, Noname described her move to rap: “The spaces for spoken word can be depressing, and poetry can be really serious. I wanted to inject light into my work, and rap is fun.” While fun and light-hearted melodies underly her songs, Noname carries the emotional power of spoken word into rap. 
 
 
 Noname starts at 2:15 in Chance's performance on Saturday Night Live
