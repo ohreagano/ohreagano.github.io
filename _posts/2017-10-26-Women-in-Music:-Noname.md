@@ -133,3 +133,32 @@ In an interview with _Chicago Tribune_ this year, Noname says:
 
 ![Fatimah Warner, picture from _The Fader_](http://thefader-res.cloudinary.com/images/w_750,c_limit,f_auto,q_auto:best/54645646_Opener_ejdrgd/noname-telefone-interview.jpg)
 
+# References 
+
+* Brown, Stacia L. (2016, August 19). 'Telefone' explores black womanhood in the time of black lives matter. _The Washington Post_. Retrieved October 26, 2017 from [http://libproxy.lib.unc.edu/login?url=https://search-proquest-com.libproxy.lib.unc.edu/docview/1812581397?accountid=14244](http://libproxy.lib.unc.edu/login?url=https://search-proquest-com.libproxy.lib.unc.edu/docview/1812581397?accountid=14244).
+
+* Carter, Bobby (2017, April 3). Tiny Desk Concert: Noname. _NPR_. Retrieved November 4, 2017 from [http://www.npr.org/event/music/521650653/noname-tiny-desk-concert](http://www.npr.org/event/music/521650653/noname-tiny-desk-concert).
+
+* Clifford, Kevin (2017, January 9). Necessary Poetry and New Wisdom, Noname Releases “Telefone”. _Play Too Much_. Retrieved October 24, 2017 from [http://playtoomuch.com/nonamewisdom/](http://playtoomuch.com/nonamewisdom/).
+
+* Hip-hop’s changing relationship with the public expression of feelings. _Impose Magazine_. Retrieved from [http://www.imposemagazine.com/features/stoicism-and-vulnerability-in-hip-hop](http://www.imposemagazine.com/features/stoicism-and-vulnerability-in-hip-hop).
+
+* Fitzgerald, Kiana (2016, September 15). Noname, Sincerely:  A rare conversation with the Chicago rapper about patience, privacy, and her exceptional first solo project. _The Fader_. Retrieved October 26, 2017 from [http://www.thefader.com/2016/09/15/noname-telefone-interview](http://www.thefader.com/2016/09/15/noname-telefone-interview). 
+
+* Gaunt, Kyra D. (1997). “Translating Double-Dutch to Hip-Hop: The Musical Vernacular of Black Girls’ Play. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 251-263). New York, NY: Routledge.
+
+* Habib, Samra (2017, February 22). Noname talks trauma, transitions and Telefone. _Now Toronto_. Retrieved October 24, 2017 from [https://nowtoronto.com/music/features/noname-talks-trauma-transitions-and-telefone/](https://nowtoronto.com/music/features/noname-talks-trauma-transitions-and-telefone/).
+
+* Keyes, Cheryl L. (2000). Empowering Self, Making Choices, Creating Spaces: Black Female Identity via Rap Music Performance. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 265-276). New York, NY: Routledge.
+
+* Mahadevan, Tara (2017, February 15). Chicago Rapper Noname is Bringing Her A-Game. _Riverfront Times_. Retrieved November 3, 2017 from [https://www.riverfronttimes.com/stlouis/chicago-rapper-noname-is-bringing-her-a-game/Content?oid=3142929](https://www.riverfronttimes.com/stlouis/chicago-rapper-noname-is-bringing-her-a-game/Content?oid=3142929). 
+
+* Morgan, Joan (2000). Hip-Hop Feminist. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 277-281). New York, NY: Routledge.
+
+* Neal, Mark Anthony (2004). I’ll Be Nina Simone Defecating on Your Microphone: Hip-Hop and Gender. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 247-250). New York, NY: Routledge.
+
+* Pough, Gwendolyn D. (2001). Seeds and Legacies: Tapping the Potential in Hip-Hop. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 283-289). New York, NY: Routledge.
+
+* Rose, Tricia (1990). Never Trust a Big Butt and a Smile. In Murray Forman & Mark Anthony Neal (Eds.), _That’s the Joint!: The Hip-Hop Studies Reader_ (pp. 291-306). New York, NY: Routledge.
+
+* Terry, Josh (2017, January 24). Interview: Chicago artist Noname's incredible songs speak for her. _Chicago Tribune_. Retrieved October 24, 2017 from [http://www.chicagotribune.com/redeye/redeye-noname-interview-telefone-metro-chicago-20170120-story.html](http://www.chicagotribune.com/redeye/redeye-noname-interview-telefone-metro-chicago-20170120-story.html).
