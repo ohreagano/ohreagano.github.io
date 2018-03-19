@@ -7,7 +7,7 @@ body {
 }
 
 a {
-    color: #000000;
+    color: $slate;
     text-decoration: none;
 
     &:hover {
@@ -70,6 +70,7 @@ strong {
 
 .header {
     font-family: $header;
+    font-weight: bold;
     color: $gold;
     overflow: hidden;
 }
@@ -88,7 +89,7 @@ strong {
 
 .menu {
     color: $sun;
-    font-family: $body;
+    font-family: $extra;
     font-size: 18px;
     margin:0px;
     margin-top: 6px;
@@ -125,23 +126,24 @@ strong {
 /* =Titles */
 .page-title {
     margin-top:100px;
-    margin-bottom:125px;
+    margin-bottom:100px;
     text-align: center;
 }
 
 .page-title__text {
-    font-weight: 700;
-    font-size: 70px;
+    font-size: 50px;
+    font-weight: thin;
 }
 
 .page-title__subtitle {
+    font-family: $extra;
     font-weight: 400;
     font-size: 22px;
     color: $slate;
 }
 
 .post-title {
-    margin-bottom: 110px;
+    margin-bottom: 75px;
 }
 
 .post-title__text {
@@ -161,16 +163,15 @@ strong {
 
 .post-teaser {
     margin-bottom: 45px;
-    font-weight: 700;
 }
 
 .post-teaser__title {
-    font-size: 22px;
+    font-size: 20px;
     color: $slate;
 }
 
 .post-teaser__date {
-    font-size: 16px;
+    font-size: 20px;
     float: right;
     vertical-align: middle;
     color: $slate;
@@ -186,6 +187,7 @@ strong {
 /* =Explore */
 .explore {
     text-align: center;
+    font-family: $body;
     color: $slate;
     margin-top: 140px;
 }
@@ -208,7 +210,7 @@ strong {
 
 .categories__item {
     display: inline-block;
-    font-weight: 700;
+    font-family: $extra;
     font-size: 18px;
 }
 

@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Reagan. I'm a senior at UNC Chapel Hill studying information science and entrepreneurship. 
+Hi I'm Reagan. I’m a self-motivated UX/UI designer with a passion for creating systems and experiences that empower the user and build stronger communities. Currently, I work at a civic tech startup in Raleigh, NC designing tools and processes to support participatory democracy at the local level.
 
-I'm making this website as part of [INLS 161: Tools for Information Literacy](https://silshack.github.io/inls161fall2016/). 
-For now it will house my assignments, notes, and resources for the course, and serve as a playground while I learn some front-end web development. 
+My coursework in information science has trained me to adapt to new technologies and serve as a bridge between technical and non-technical team members. I am adept at plunging into new software and code to accomplish high-priority tasks in an efficient manner. In recent projects I’ve analyzed data using Tableau, Excel, R, and SQL, and contributed to websites with WordPress, GitHub, and HTML/CSS.
+
+Complimenting my technical skills, I am experienced in project management and user-centered design. In an internship in 2017, my four-student team designed and prototyped a chatbot to meet information needs in Chatham County, a rural and rapidly changing county neighboring Chapel Hill. We met with and shadowed diverse county residents and municipal leaders to get to the root of their challenges and values, and then built a solution up from there.  
 
 <img class="img-circle" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAApNAAAAJGI2NTU0NmUxLTMyNmItNDE1Ny05ZmVhLTY5YzYxODM4MjQ1OQ.jpg">
 
+# Portfolio Projects
