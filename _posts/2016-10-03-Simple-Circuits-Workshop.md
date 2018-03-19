@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Simple Circuits Workshop
-category: inls161
+category: coursework
 ---
 
 I attended a Simple Circuits workshop October 3. 

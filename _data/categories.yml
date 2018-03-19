@@ -1,5 +1,9 @@
+- slug: portfolio
+  name: Portfolio
+  
 - slug: resources
   name: Resources
 
-- slug: inls161
-  name: "INLS 161"
+- slug: coursework
+  name: Coursework
+  

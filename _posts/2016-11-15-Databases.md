@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Assignment 5 - Databases
-category: inls161
+Title: INLS 161 - Databases
+category: coursework
 ---
 
 For this assignment, we set up a database with one table, and then wrote a script that accepts user input and 

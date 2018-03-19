@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: Pandoc & Scripting
-category: inls161
+category: coursework
 ---
 
 # Assignment 3: Text

@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Assignment 4 - Data
-category: inls161
+Title: INLS 161 - Data
+category: coursework
 ---
 
 This was the first time we've dealt with collaborative work in GitHub and it definitely took some
