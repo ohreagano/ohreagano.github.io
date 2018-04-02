@@ -1,5 +1,4 @@
 ---
-use-site-title: true
 layout: page
 title: About
 permalink: /about/
