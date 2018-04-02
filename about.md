@@ -10,4 +10,4 @@ My coursework in information science has trained me to adapt to new technologies
 
 Complimenting my technical skills, I am experienced in project management and user-centered design. In an internship in 2017, my four-student team designed and prototyped a chatbot to meet information needs in Chatham County, a rural and rapidly changing county neighboring Chapel Hill. We met with and shadowed diverse county residents and municipal leaders to get to the root of their challenges and values, and then built a solution up from there.  
 
-<img class="img-circle" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAApNAAAAJGI2NTU0NmUxLTMyNmItNDE1Ny05ZmVhLTY5YzYxODM4MjQ1OQ.jpg">
+<img class="img-circle" src="ohreagano.github.io/assets/ReaganCline_copy.jpg">
