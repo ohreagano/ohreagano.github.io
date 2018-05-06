@@ -84,4 +84,4 @@ WHERE LEA_2018_PersonnelSummary.AssignmentClassification = ‘Guidance’;
 * Added a record for North Carolina totals and summed count of students and support specialists.
 * Saved these csv files and imported into Tableau to create visualizations
 
-Special thanks to my data sherpa Bryan Noreen, data specialist at EdNC & Reach NC Voices.
+Check out my final article on this data: [Teacher protests about more than a raise](http://www.reagancline.com/coursework/2018/05/06/Data-Driven-Journalism-Teacher-Protests-About-More-Than-A-Raise.html). Special thanks to my data sherpa Bryan Noreen, data specialist at EdNC & Reach NC Voices.
