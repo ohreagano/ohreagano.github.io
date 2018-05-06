@@ -49,4 +49,4 @@ Additionally, 20 school districts do not have a school psychologist, leaving rou
 While there’s no one fix, funding more student support services would help alleviate the burden on teachers and likely improve education outcomes. 
 
 Read more about the role of [student support service specialists]( http://www.ncpublicschools.org/studentsupport/) on the North Carolina public schools site.
-And check out [how I calculated these ratios](http://www.reagancline.com/coursework/2018/05/05/N-C-School-Support-Services-Data-Processing.html) from the North Carolina State Board of Education statistical profiles.
+And check out [how I calculated these ratios](http://www.reagancline.com/coursework/2018/05/05/Data-Processing-N-C-School-Support-Services.html) from the North Carolina State Board of Education statistical profiles.
