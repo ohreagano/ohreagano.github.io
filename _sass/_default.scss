@@ -9,6 +9,7 @@ body {
 a {
     color: $slate;
     text-decoration: none;
+    font-weight: bold;
 
     &:hover {
         color: $yellow;
