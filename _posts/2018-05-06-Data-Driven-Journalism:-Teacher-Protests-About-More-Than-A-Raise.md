@@ -36,6 +36,8 @@ The chart below shows the range of counselor to student ratios in North Carolina
 
 <img src="/assets/AllLEA.png">
 
+View the [interactive Tableau visualisation](https://public.tableau.com/profile/reagan.cline#!/vizhome/NCSchoolGuidanceCounselors/Guidance?publish=yes) to find how your school district compares.
+
 The numbers are worse for school psychologists. On average, North Carolina school districts have one school psychologist for every 1,808 students. That’s nearly three times the the [1:500-700 psychologist to student ratio](http://www.ncpublicschools.org/studentsupport/psychology/standards-training/) that the National Association of School Psychologists recommends. 
 
 <img src="/assets/Psych1.png">
