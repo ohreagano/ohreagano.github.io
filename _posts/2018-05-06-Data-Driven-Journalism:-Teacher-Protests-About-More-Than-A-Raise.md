@@ -48,6 +48,8 @@ Only 2 school districts in North Carolina met the recommended ratio for the 2017
 
 Additionally, 20 school districts do not have a school psychologist, leaving roughly 60,000 students statewide without access to their support. 
 
+View the [interactive Tableau visualization](https://public.tableau.com/profile/reagan.cline#!/vizhome/NCSchoolPsychologists/Sheet1?publish=yes) to find out the pscyhologist to student ratio in your district.
+
 While there’s no one fix, funding more student support services would help alleviate the burden on teachers and likely improve education outcomes. 
 
 Read more about the role of [student support service specialists]( http://www.ncpublicschools.org/studentsupport/) on the North Carolina public schools site.
